@@ -8,7 +8,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: gl32@illinois.com
 - 😄 Pronouns: he/him
-- 🧋 Favorite drink: diet coke
+- 🥤 Favorite drink: diet coke
 
 
 <!--
