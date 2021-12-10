@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning back-end development and distributed system
 - 📍 Hangzhou, China -> IL, US
 - 💬 Ask me about anything
-- 📫 How to reach me: gl32@illinois.com
+- 📫 How to reach me: gl32@illinois.edu
 - 😄 Pronouns: he/him
 - 🥤 Favorite drink: diet coke
 
